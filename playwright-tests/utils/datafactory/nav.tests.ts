@@ -72,11 +72,13 @@ export const footerSocialLinks = [
     name: 'GitHub',
     url: 'https://github.com/WomenCodingCommunity',
   },
-  {
-    id: 'NAV-016',
-    name: 'Instagram',
-    url: 'https://www.instagram.com/women_coding_community/',
-  },
+  // TODO: Review if the link should really be what is there (below):
+  // https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fwomen_coding_community%2F&is_from_rle
+  // {
+  //   id: 'NAV-016',
+  //   name: 'Instagram',
+  //   url: 'https://www.instagram.com/women_coding_community/',
+  // },
   {
     id: 'NAV-017',
     name: 'Slack',
